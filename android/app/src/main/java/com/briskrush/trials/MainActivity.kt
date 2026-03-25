@@ -1,4 +1,4 @@
-package com.briskrushtrials
+package com.briskrush.trials
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

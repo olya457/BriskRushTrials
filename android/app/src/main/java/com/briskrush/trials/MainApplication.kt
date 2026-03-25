@@ -1,4 +1,4 @@
-package com.briskrushtrials
+package com.briskrush.trials
 
 import android.app.Application
 import com.facebook.react.PackageList
