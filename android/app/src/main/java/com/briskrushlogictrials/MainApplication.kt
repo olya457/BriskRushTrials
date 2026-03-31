@@ -1,4 +1,4 @@
-package com.briskrush.trials
+package com.briskrushlogictrials
 
 import android.app.Application
 import com.facebook.react.PackageList
